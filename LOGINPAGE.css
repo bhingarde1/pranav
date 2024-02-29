@@ -1,0 +1,93 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: #c4b7b7;
+
+}
+main{
+display: flex;
+justify-content: center;    
+
+}
+form{
+     width: 30%; 
+    /* justify-content: center;  */
+    /* border: 2px solid black; */
+    padding: 0px 25px 20px 20px;
+    background-color:white;
+    margin-top: 30px;
+    
+   
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+input{
+    width: 90%;
+    padding: 10PX;
+    border-radius: 9PX;
+    padding-left: 40px;
+    background-color: rgb(141, 170, 224);
+    
+}
+button{
+    background-color: #e2ba09;
+    width: 100%;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 7px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+    box-shadow: 3px 6px 3px black;
+}
+div{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+
+}
+h6{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+position: relative;
+display: inline;
+font-size: 10px;
+
+
+
+}
+#gg{
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+#pp{
+    margin-top: 0px;
+}
+.oo{
+    position: relative;
+}
+.fa-envelope{
+    position: absolute;
+    top: 25%;
+    left: 2px;
+}
+.fa-lock{
+    position: absolute;
+    /* margin: 18px; */
+    top: 25%;
+    left: 2px;
+}
+#d1{
+    display: flex;
+    justify-content: center;
+    color: #e2ba09;
+    font-size: 50px;
+}
+.kk{
+    position: absolute;
+    margin: -18px 6px -1px 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
